@@ -1,0 +1,57 @@
+{
+  "selected_model": "Focused Voting Ensemble",
+  "selection_policy": "Primary ranking uses cross-validated PR-AUC. Models within 0.003 PR-AUC of the best candidate are treated as a practical tie, then ranked by hold-out accuracy, cross-validated accuracy, F1, and PR-AUC.",
+  "top_three_for_ensemble": [
+    "Logistic Regression (Target Encoded)",
+    "XGBoost (No SMOTE Tuned)",
+    "CatBoost (No SMOTE Tuned)"
+  ],
+  "default_threshold_metrics": {
+    "threshold": 0.5,
+    "accuracy": 0.8133427963094393,
+    "precision": 0.688135593220339,
+    "recall": 0.5427807486631016,
+    "f1": 0.6068759342301944,
+    "roc_auc": 0.849125526363378,
+    "pr_auc": 0.6676879139377435,
+    "true_negative": 943,
+    "false_positive": 92,
+    "false_negative": 171,
+    "true_positive": 203,
+    "cost": 947
+  },
+  "accuracy_optimal_threshold_metrics": {
+    "threshold": 0.51,
+    "accuracy": 0.8147622427253371,
+    "precision": 0.6968641114982579,
+    "recall": 0.5347593582887701,
+    "f1": 0.6051437216338881,
+    "roc_auc": 0.849125526363378,
+    "pr_auc": 0.6676879139377435,
+    "true_negative": 948,
+    "false_positive": 87,
+    "false_negative": 174,
+    "true_positive": 200,
+    "cost": 957
+  },
+  "operational_threshold_metrics": {
+    "threshold": 0.14,
+    "accuracy": 0.6756564939673527,
+    "precision": 0.44575163398692813,
+    "recall": 0.9117647058823529,
+    "f1": 0.5987708516242318,
+    "roc_auc": 0.849125526363378,
+    "pr_auc": 0.6676879139377435,
+    "true_negative": 611,
+    "false_positive": 424,
+    "false_negative": 33,
+    "true_positive": 341,
+    "cost": 589
+  },
+  "threshold_summary": {
+    "f1_optimal_threshold": 0.34,
+    "accuracy_optimal_threshold": 0.51,
+    "cost_sensitive_threshold": 0.14,
+    "minimum_business_cost": 589.0
+  }
+}

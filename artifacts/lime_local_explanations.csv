@@ -1,0 +1,6 @@
+customerID,churn_probability,lime_explanation
+5178-LMXOP,0.9229568243026733,tenure: -0.037; is_month_to_month: 0.018; tenure_inverse: 0.011; contract_commitment_score: -0.011; OnlineSecurity_No: 0.010
+0295-PPHDO,0.9157661199569702,tenure: -0.035; is_month_to_month: 0.017; tenure_inverse: 0.011; OnlineSecurity_No: 0.009; contract_commitment_score: -0.009
+1069-XAIEM,0.8948736190795898,tenure: -0.036; is_month_to_month: 0.018; tenure_inverse: 0.011; contract_commitment_score: -0.010; OnlineSecurity_No: 0.010
+9248-OJYKK,0.8786069750785828,tenure: -0.035; is_month_to_month: 0.018; tenure_inverse: 0.010; contract_commitment_score: -0.010; OnlineSecurity_No: 0.010
+0970-ETWGE,0.8738260865211487,tenure: -0.035; is_month_to_month: 0.017; OnlineSecurity_No: 0.011; tenure_inverse: 0.010; month_to_month_fiber: 0.008

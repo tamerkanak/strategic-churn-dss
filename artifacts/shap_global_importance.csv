@@ -1,0 +1,141 @@
+feature,mean_abs_shap
+tenure,0.37002796
+month_to_month_fiber,0.2695807
+is_month_to_month,0.25679043
+OnlineSecurity_No,0.167875
+paperless_echeck,0.15856123
+MultipleLines_No,0.13082811
+TechSupport_No,0.12814672
+contract_commitment_score,0.12162536
+tenure_inverse,0.08646531
+streaming_count,0.08324972
+internet_service_group_Fiber optic_Month-to-month,0.080839366
+avg_total_charge_per_month,0.06815836
+short_tenure_high_charge,0.060414933
+MonthlyCharges,0.059106942
+TotalCharges,0.054780453
+OnlineBackup_No,0.05469665
+PaperlessBilling_No,0.052360665
+fiber_no_security_support,0.040121097
+fiber_no_security,0.037255086
+charge_gap_vs_average,0.033574566
+monthly_x_tenure,0.03244855
+is_senior_m2m,0.02718294
+payment_risk_score,0.026090508
+PaperlessBilling_Yes,0.019804504
+has_fiber,0.017854394
+monthly_charge_log,0.01769146
+payment_contract_group_Electronic check_Month-to-month,0.016245032
+Dependents_No,0.015141667
+electronic_check_m2m,0.014450534
+charge_per_service,0.013697351
+StreamingTV_Yes,0.012348817
+Contract_Month-to-month,0.01183735
+internet_service_group_Fiber optic_One year,0.011686134
+internet_service_group_DSL_Month-to-month,0.011460978
+Contract_Two year,0.011025524
+total_charge_log,0.010630761
+SeniorCitizen,0.010607462
+Dependents_Yes,0.007215988
+StreamingMovies_Yes,0.007098565
+very_low_tenure,0.0054169223
+gender_Female,0.0051162513
+InternetService_DSL,0.0049752765
+has_internet,0.0048697474
+new_customer,0.004735231
+contract_x_monthly,0.0041391314
+fiber_no_support,0.004109037
+PaymentMethod_Electronic check,0.004103363
+monthly_charge_band_moderate,0.003560644
+tenure_charge_band_25-48_high,0.0030654594
+services_x_tenure,0.0030559686
+tenure_band_49-72 months,0.002542596
+PhoneService_No,0.0021317734
+very_long_tenure,0.0018385855
+risk_service_gap_count,0.00178291
+has_auto_payment,0.0017750658
+total_active_services,0.0017643466
+support_count,0.0017503874
+MultipleLines_No phone service,0.0015552404
+gender_Male,0.0014136794
+PhoneService_Yes,0.0013954865
+monthly_charge_band_high,0.0013178242
+InternetService_No,0.001302839
+StreamingMovies_No,0.0012828108
+internet_service_group_DSL_One year,0.0012648334
+OnlineBackup_Yes,0.0011551583
+support_x_fiber,0.0011528897
+support_security_bundle,0.0008209887
+DeviceProtection_No internet service,0.0007321828
+payment_contract_group_Electronic check_One year,0.0006482327
+tenure_charge_band_25-48_moderate,0.00062920584
+OnlineSecurity_Yes,0.0006211478
+tenure_charge_band_13-24_moderate,0.0005580298
+Contract_One year,0.00053674454
+tenure_charge_band_7-12_high,0.00038423995
+tenure_band_25-48 months,0.00025441576
+contract_x_tenure,0.00023426824
+PaymentMethod_Bank transfer (automatic),0.00019454554
+tenure_charge_band_0-3_moderate,0.0
+monthly_charge_band_low,0.0
+tenure_bucket_7-12,0.0
+tenure_bucket_49-72,0.0
+tenure_bucket_4-6,0.0
+tenure_bucket_25-48,0.0
+monthly_charge_band_premium,0.0
+tenure_bucket_13-24,0.0
+tenure_bucket_0-3,0.0
+tenure_charge_band_0-3_high,0.0
+tenure_charge_band_0-3_low,0.0
+tenure_charge_band_49-72_low,0.0
+tenure_charge_band_0-3_premium,0.0
+tenure_charge_band_13-24_high,0.0
+tenure_charge_band_13-24_low,0.0
+tenure_charge_band_7-12_moderate,0.0
+tenure_charge_band_13-24_premium,0.0
+tenure_charge_band_7-12_low,0.0
+tenure_charge_band_49-72_premium,0.0
+tenure_charge_band_49-72_moderate,0.0
+tenure_charge_band_25-48_low,0.0
+tenure_charge_band_25-48_premium,0.0
+tenure_charge_band_4-6_high,0.0
+tenure_charge_band_4-6_low,0.0
+tenure_charge_band_4-6_moderate,0.0
+tenure_charge_band_4-6_premium,0.0
+tenure_charge_band_49-72_high,0.0
+StreamingMovies_No internet service,0.0
+tenure_band_13-24 months,0.0
+OnlineSecurity_No internet service,0.0
+StreamingTV_No,0.0
+TechSupport_Yes,0.0
+TechSupport_No internet service,0.0
+DeviceProtection_Yes,0.0
+DeviceProtection_No,0.0
+OnlineBackup_No internet service,0.0
+InternetService_Fiber optic,0.0
+PaymentMethod_Credit card (automatic),0.0
+MultipleLines_Yes,0.0
+Partner_Yes,0.0
+Partner_No,0.0
+no_protection_services,0.0
+dependents_partner_score,0.0
+backup_protection_count,0.0
+StreamingTV_No internet service,0.0
+PaymentMethod_Mailed check,0.0
+tenure_band_0-12 months,0.0
+payment_contract_group_Credit card (automatic)_Month-to-month,0.0
+payment_contract_group_Mailed check_Two year,0.0
+payment_contract_group_Mailed check_One year,0.0
+payment_contract_group_Mailed check_Month-to-month,0.0
+payment_contract_group_Electronic check_Two year,0.0
+payment_contract_group_Credit card (automatic)_Two year,0.0
+payment_contract_group_Credit card (automatic)_One year,0.0
+payment_contract_group_Bank transfer (automatic)_Two year,0.0
+internet_service_group_DSL_Two year,0.0
+payment_contract_group_Bank transfer (automatic)_One year,0.0
+payment_contract_group_Bank transfer (automatic)_Month-to-month,0.0
+internet_service_group_No_Two year,0.0
+internet_service_group_No_One year,0.0
+internet_service_group_No_Month-to-month,0.0
+internet_service_group_Fiber optic_Two year,0.0
+tenure_charge_band_7-12_premium,0.0

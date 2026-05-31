@@ -1,0 +1,17 @@
+.benchmarks/
+.cursor/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+catboost_info/
+
+# Local runtime logs
+artifacts/streamlit.out.log
+artifacts/streamlit.err.log
+
+# Keep model/report artifacts deployable, but ignore ad-hoc OS/editor files.
+.DS_Store
+Thumbs.db
+.env
+.env.*

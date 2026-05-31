@@ -1,0 +1,11 @@
+{
+  "source": "C:\\Users\\MONS\\Desktop\\Strategic Information Systems\\data\\raw\\Telco-Customer-Churn.csv",
+  "rows": 7043,
+  "columns_after_feature_engineering": 63,
+  "raw_columns": 21,
+  "churn_rate": 0.2653698707936959,
+  "non_churn_customers": 5174,
+  "churn_customers": 1869,
+  "train_rows": 5634,
+  "test_rows": 1409
+}

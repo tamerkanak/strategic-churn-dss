@@ -1,0 +1,33 @@
+{
+  "dataset_summary": {
+    "source": "C:\\Users\\MONS\\Desktop\\Strategic Information Systems\\data\\raw\\Telco-Customer-Churn.csv",
+    "rows": 7043,
+    "columns_after_feature_engineering": 63,
+    "raw_columns": 21,
+    "churn_rate": 0.2653698707936959,
+    "non_churn_customers": 5174,
+    "churn_customers": 1869,
+    "train_rows": 5634,
+    "test_rows": 1409
+  },
+  "selected_model": "Focused Voting Ensemble",
+  "explainer_model": "XGBoost (No SMOTE Tuned)",
+  "operational_threshold": 0.14,
+  "artifact_dir": "C:\\Users\\MONS\\Desktop\\Strategic Information Systems\\artifacts",
+  "report_dir": "C:\\Users\\MONS\\Desktop\\Strategic Information Systems\\reports",
+  "figure_dir": "C:\\Users\\MONS\\Desktop\\Strategic Information Systems\\reports\\figures",
+  "shap_rows": 500,
+  "lime_rows": 5,
+  "top_shap_features": [
+    "tenure",
+    "month_to_month_fiber",
+    "is_month_to_month",
+    "OnlineSecurity_No",
+    "paperless_echeck",
+    "MultipleLines_No",
+    "TechSupport_No",
+    "contract_commitment_score",
+    "tenure_inverse",
+    "streaming_count"
+  ]
+}
